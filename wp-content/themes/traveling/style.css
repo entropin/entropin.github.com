@@ -1,0 +1,15 @@
+/*
+Theme Name: Traveling Theme
+Theme URI: http://thisoneisgreen.com
+Description: 
+Version: 3.0
+Author: Robin Westerlundh
+Author URI: http://thisoneisgreen.com
+Tags: yay
+*/
+
+@import "css/reset.css";
+@import "css/typography.css";
+@import "css/droid.font.css";
+@import "css/chewy.font.css";
+@import "css/layout.css";
